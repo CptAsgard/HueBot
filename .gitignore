@@ -388,3 +388,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 Notes.txt
+# Generated programatically, contains sensitive info.
+/HueBot/huebot.json

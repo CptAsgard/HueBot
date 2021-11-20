@@ -9,4 +9,10 @@
     <AssemblyName>huebot</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="huebot.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
