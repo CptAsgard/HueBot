@@ -389,4 +389,4 @@ FodyWeavers.xsd
 
 Notes.txt
 # Generated programatically, contains sensitive info.
-/HueBot/huebot.json
+**/huebot.json
